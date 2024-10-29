@@ -1,0 +1,9 @@
+* cl-sasl
+
+SASL client library for Common Lisp
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/legoscia/cl-sasl.git |
+| commit  | 64f195c                                     |
+| systems | cl-sasl                                     |
+|---------+---------------------------------------------|
